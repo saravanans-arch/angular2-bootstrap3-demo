@@ -1,5 +1,5 @@
-# angular2-jwt-authentication-example
+# angular2-bootstrap3-demo
 
-Angular 2 JWT Authentication Example
+Angular v2 with Bootstrap v3 Example
 
-To see a demo and further details go to http://jasonwatmore.com/post/2016/08/16/angular-2-jwt-authentication-example-tutorial
+Comment your queries and suggestions
